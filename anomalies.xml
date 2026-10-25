@@ -1,0 +1,1440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Anomalies xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <content>
+    <anomaly operationnumbers="65535">
+      <str>Ржавые волосы</str>
+      <Commands>
+        <cmd command="61" param="000a">
+          <power>2</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>2</post_state>
+          <rssi detect="70" attack="85" />
+          <launch delay="0" cycle="1" />
+          <param_random>true</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>2</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>1</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>Жарка          *</str>
+      <Commands>
+        <cmd command="61" param="000a">
+          <power>3</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>2</post_state>
+          <rssi detect="65" attack="90" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="61" param="000f">
+          <power>5</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>2</post_state>
+          <rssi detect="0" attack="80" />
+          <launch delay="0" cycle="3" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="61" param="0019">
+          <power>7</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>2</post_state>
+          <rssi detect="85" attack="90" />
+          <launch delay="0" cycle="6" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>Факел     **</str>
+      <Commands>
+        <cmd command="61" param="0014">
+          <power>2</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>2</post_state>
+          <rssi detect="65" attack="85" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="61" param="001e">
+          <power>5</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>1</post_state>
+          <rssi detect="0" attack="85" />
+          <launch delay="0" cycle="4" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="61" param="0028">
+          <power>7</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>1</post_state>
+          <rssi detect="0" attack="85" />
+          <launch delay="0" cycle="6" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>Электрошок</str>
+      <Commands>
+        <cmd command="62" param="0005">
+          <power>2</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>2</post_state>
+          <rssi detect="75" attack="85" />
+          <launch delay="0" cycle="1" />
+          <param_random>true</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="62" param="000a">
+          <power>4</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>2</post_state>
+          <rssi detect="75" attack="85" />
+          <launch delay="0" cycle="4" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="62" param="000f">
+          <power>6</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>2</post_state>
+          <rssi detect="75" attack="85" />
+          <launch delay="0" cycle="6" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>Электра        *</str>
+      <Commands>
+        <cmd command="62" param="0019">
+          <power>2</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>2</post_state>
+          <rssi detect="75" attack="85" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>1</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>1</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>Тесла         **</str>
+      <Commands>
+        <cmd command="62" param="0023">
+          <power>2</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>2</post_state>
+          <rssi detect="80" attack="85" />
+          <launch delay="0" cycle="4" />
+          <param_random>false</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>1</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="62" param="002d">
+          <power>7</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>2</post_state>
+          <rssi detect="75" attack="85" />
+          <launch delay="0" cycle="7" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>Ведьмин студень</str>
+      <Commands>
+        <cmd command="63" param="000a">
+          <power>5</power>
+          <quantity>20</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>2</post_state>
+          <rssi detect="85" attack="90" />
+          <launch delay="0" cycle="2" />
+          <param_random>true</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>3</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>1</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>Газировка      *</str>
+      <Commands>
+        <cmd command="63" param="000f">
+          <power>2</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>2</post_state>
+          <rssi detect="83" attack="85" />
+          <launch delay="0" cycle="1" />
+          <param_random>true</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="63" param="0028">
+          <power>6</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>2</post_state>
+          <rssi detect="75" attack="75" />
+          <launch delay="0" cycle="1" />
+          <param_random>true</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>1</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>Плавни        **</str>
+      <Commands>
+        <cmd command="63" param="0001">
+          <power>3</power>
+          <quantity>95</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>2</post_state>
+          <rssi detect="70" attack="80" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>1</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>1</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>Воронка</str>
+      <Commands>
+        <cmd command="64" param="0005">
+          <power>2</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>2</post_state>
+          <rssi detect="77" attack="85" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>3</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>1</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>Карусель       *</str>
+      <Commands>
+        <cmd command="64" param="0014">
+          <power>3</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>2</post_state>
+          <rssi detect="70" attack="85" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="64" param="0028">
+          <power>7</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>2</post_state>
+          <rssi detect="80" attack="80" />
+          <launch delay="0" cycle="2" />
+          <param_random>false</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>1</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>Мясорубка     **</str>
+      <Commands>
+        <cmd command="64" param="002d">
+          <power>2</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>2</post_state>
+          <rssi detect="85" attack="85" />
+          <launch delay="0" cycle="5" />
+          <param_random>false</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>1</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>1</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>Пси</str>
+      <Commands>
+        <cmd command="65" param="000a">
+          <power>2</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>3</post_state>
+          <rssi detect="50" attack="70" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="65" param="0014">
+          <power>5</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>3</post_state>
+          <rssi detect="0" attack="70" />
+          <launch delay="0" cycle="3" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>1</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>Пси-мега       *</str>
+      <Commands>
+        <cmd command="65" param="0014">
+          <power>2</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>3</post_state>
+          <rssi detect="60" attack="60" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>1</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>1</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>Выброс</str>
+      <Commands>
+        <cmd command="6a" param="0032">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>3</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>true</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>3</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>3</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>Заражение</str>
+      <Commands>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>1</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>3</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="32" param="0064">
+          <power>7</power>
+          <quantity>127</quantity>
+          <group>0</group>
+          <quantity_minute>true</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>4</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="1" cycle="10" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>Защита от выброс</str>
+      <Commands>
+        <cmd command="6a" param="0001">
+          <power>7</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="127" />
+          <launch delay="0" cycle="10" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="aa" param="00ff">
+          <power>7</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="1" cycle="10" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="aa" param="0000">
+          <power>7</power>
+          <quantity>60</quantity>
+          <group>0</group>
+          <quantity_minute>true</quantity_minute>
+          <time_to_start>true</time_to_start>
+          <post_state>3</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="1" cycle="10" />
+          <param_random>false</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>Бюрер</str>
+      <Commands>
+        <cmd command="64" param="000a">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>2</post_state>
+          <rssi detect="1" attack="1" />
+          <launch delay="4" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="64" param="001e">
+          <power>5</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>2</post_state>
+          <rssi detect="1" attack="1" />
+          <launch delay="8" cycle="4" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="64" param="003c">
+          <power>7</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>2</post_state>
+          <rssi detect="1" attack="1" />
+          <launch delay="8" cycle="4" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>Псевдогигант</str>
+      <Commands>
+        <cmd command="64" param="000a">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>2</post_state>
+          <rssi detect="1" attack="1" />
+          <launch delay="4" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="64" param="001e">
+          <power>5</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>2</post_state>
+          <rssi detect="1" attack="1" />
+          <launch delay="8" cycle="4" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="64" param="003c">
+          <power>7</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>2</post_state>
+          <rssi detect="1" attack="1" />
+          <launch delay="8" cycle="4" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>Контролер</str>
+      <Commands>
+        <cmd command="65" param="000a">
+          <power>2</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>3</post_state>
+          <rssi detect="10" attack="10" />
+          <launch delay="0" cycle="1" />
+          <param_random>true</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="65" param="001e">
+          <power>5</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>3</post_state>
+          <rssi detect="10" attack="10" />
+          <launch delay="2" cycle="4" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="65" param="003c">
+          <power>7</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>3</post_state>
+          <rssi detect="10" attack="10" />
+          <launch delay="3" cycle="4" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>Контролер тест</str>
+      <Commands>
+        <cmd command="65" param="0046">
+          <power>2</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>4</post_state>
+          <rssi detect="1" attack="1" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>1</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>1</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>ОЧАГ РАДИАЦИИ</str>
+      <Commands>
+        <cmd command="21" param="1388">
+          <power>3</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>2</post_state>
+          <rssi detect="45" attack="65" />
+          <launch delay="1" cycle="1" />
+          <param_random>true</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>4</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>3</post_state>
+          <rssi detect="65" attack="65" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>3</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>Радиоакт. пыль</str>
+      <Commands>
+        <cmd command="21" param="01f4">
+          <power>2</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>3</post_state>
+          <rssi detect="50" attack="65" />
+          <launch delay="0" cycle="1" />
+          <param_random>true</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>3</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>3</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>ОЖИВАНИЕ 1 час</str>
+      <Commands>
+        <cmd command="f3" param="003c">
+          <power>7</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>0</post_state>
+          <rssi detect="1" attack="1" />
+          <launch delay="0" cycle="10" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>3</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>3</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>ОЖИВАНИЕ быстрое</str>
+      <Commands>
+        <cmd command="f2" param="0003">
+          <power>7</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>0</post_state>
+          <rssi detect="1" attack="1" />
+          <launch delay="0" cycle="10" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>3</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>3</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>Лечилка Антирад</str>
+      <Commands>
+        <cmd command="33" param="0032">
+          <power>7</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>0</post_state>
+          <rssi detect="1" attack="1" />
+          <launch delay="0" cycle="10" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="24" param="0032">
+          <power>7</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>3</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>Ремонтилка</str>
+      <Commands>
+        <cmd command="1a" param="0001">
+          <power>7</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>0</post_state>
+          <rssi detect="1" attack="1" />
+          <launch delay="0" cycle="10" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>1</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>3</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>Адепт</str>
+      <Commands>
+        <cmd command="a6" param="0064">
+          <power>7</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>3</post_state>
+          <rssi detect="50" attack="127" />
+          <launch delay="0" cycle="3" />
+          <param_random>true</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="27" param="0064">
+          <power>7</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>3</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>Карма плюс</str>
+      <Commands>
+        <cmd command="51" param="0002">
+          <power>7</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>1</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>3</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>Карма минус</str>
+      <Commands>
+        <cmd command="52" param="0002">
+          <power>7</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>1</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>3</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>Карма =</str>
+      <Commands>
+        <cmd command="53" param="0000">
+          <power>7</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="100" />
+          <param_random>false</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>1</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>3</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>false</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>---   арты   ---</str>
+      <Commands>
+        <cmd command="b1" param="0000">
+          <power>7</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>0</post_state>
+          <rssi detect="80" attack="0" />
+          <launch delay="1" cycle="5" />
+          <param_random>false</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="0" />
+          <param_random>false</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="0" />
+          <param_random>false</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>Капля</str>
+      <Commands>
+        <cmd command="b1" param="0000">
+          <power>7</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>0</post_state>
+          <rssi detect="80" attack="0" />
+          <launch delay="1" cycle="5" />
+          <param_random>false</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="0" />
+          <param_random>false</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="0" />
+          <param_random>false</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>Мамины бусы</str>
+      <Commands>
+        <cmd command="b1" param="0000">
+          <power>7</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>0</post_state>
+          <rssi detect="80" attack="0" />
+          <launch delay="1" cycle="5" />
+          <param_random>false</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="0" />
+          <param_random>false</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="0" />
+          <param_random>false</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+    <anomaly operationnumbers="65535">
+      <str>Тестовая12345678</str>
+      <Commands>
+        <cmd command="65" param="0001">
+          <power>0</power>
+          <quantity>1</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="127" />
+          <launch delay="0" cycle="1" />
+          <param_random>false</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>0</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="0" />
+          <param_random>false</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>0</quantity>
+          <group>0</group>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <launch delay="0" cycle="0" />
+          <param_random>false</param_random>
+          <send_str0>true</send_str0>
+        </cmd>
+      </Commands>
+    </anomaly>
+  </content>
+</Anomalies>
