@@ -1,0 +1,1067 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SuperAnomalies xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <content>
+    <superanomaly id="1">
+      <str>Ржавые волосы</str>
+      <Commands>
+        <cmd command="61" param="000a">
+          <power>2</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>3</post_state>
+          <rssi detect="70" attack="80" />
+          <param_random>true</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>30</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>true</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>1</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>false</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>1</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>false</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+      </Commands>
+      <textsms />
+      <usesmscmd>false</usesmscmd>
+      <smscmd command="32" param="0001">
+        <power>0</power>
+        <quantity>127</quantity>
+        <group>0</group>
+        <quantity_minute>false</quantity_minute>
+        <time_to_start>false</time_to_start>
+        <post_state>3</post_state>
+        <rssi detect="1" attack="1" />
+        <launch delay="0" cycle="0" />
+        <param_random>false</param_random>
+        <send_str0>false</send_str0>
+      </smscmd>
+      <smscmdstr0>вирус эбола</smscmdstr0>
+      <startimegitaly>true</startimegitaly>
+      <startfrom>2016-03-16T15:51:25.4549116+03:00</startfrom>
+    </superanomaly>
+    <superanomaly id="2">
+      <str>Жарка</str>
+      <Commands>
+        <cmd command="61" param="0014">
+          <power>2</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>3</post_state>
+          <rssi detect="70" attack="85" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>30</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>true</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>1</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>false</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>1</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>false</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+      </Commands>
+      <textsms />
+      <usesmscmd>false</usesmscmd>
+      <smscmd command="32" param="0001">
+        <power>0</power>
+        <quantity>127</quantity>
+        <group>0</group>
+        <quantity_minute>false</quantity_minute>
+        <time_to_start>false</time_to_start>
+        <post_state>3</post_state>
+        <rssi detect="1" attack="1" />
+        <launch delay="0" cycle="0" />
+        <param_random>false</param_random>
+        <send_str0>false</send_str0>
+      </smscmd>
+      <smscmdstr0>вирус эбола</smscmdstr0>
+      <startimegitaly>true</startimegitaly>
+      <startfrom>2016-03-16T15:51:25.4549116+03:00</startfrom>
+    </superanomaly>
+    <superanomaly id="3">
+      <str>Фаренгейт</str>
+      <Commands>
+        <cmd command="61" param="002d">
+          <power>2</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>3</post_state>
+          <rssi detect="70" attack="85" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>30</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>true</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>1</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>false</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>1</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>false</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+      </Commands>
+      <textsms />
+      <usesmscmd>false</usesmscmd>
+      <smscmd command="32" param="0001">
+        <power>0</power>
+        <quantity>127</quantity>
+        <group>0</group>
+        <quantity_minute>false</quantity_minute>
+        <time_to_start>false</time_to_start>
+        <post_state>3</post_state>
+        <rssi detect="1" attack="1" />
+        <launch delay="0" cycle="0" />
+        <param_random>false</param_random>
+        <send_str0>false</send_str0>
+      </smscmd>
+      <smscmdstr0>вирус эбола</smscmdstr0>
+      <startimegitaly>true</startimegitaly>
+      <startfrom>2016-03-16T15:51:25.4549116+03:00</startfrom>
+    </superanomaly>
+    <superanomaly id="1">
+      <str>Электрошок</str>
+      <Commands>
+        <cmd command="62" param="000a">
+          <power>2</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>3</post_state>
+          <rssi detect="70" attack="80" />
+          <param_random>true</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>30</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>true</effects_enable>
+          <effect_group>1</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>1</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>false</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>1</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>false</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+      </Commands>
+      <textsms />
+      <usesmscmd>false</usesmscmd>
+      <smscmd command="32" param="0001">
+        <power>0</power>
+        <quantity>127</quantity>
+        <group>0</group>
+        <quantity_minute>false</quantity_minute>
+        <time_to_start>false</time_to_start>
+        <post_state>3</post_state>
+        <rssi detect="1" attack="1" />
+        <launch delay="0" cycle="0" />
+        <param_random>false</param_random>
+        <send_str0>false</send_str0>
+      </smscmd>
+      <smscmdstr0>вирус эбола</smscmdstr0>
+      <startimegitaly>true</startimegitaly>
+      <startfrom>2016-03-16T15:51:25.4549116+03:00</startfrom>
+    </superanomaly>
+    <superanomaly id="2">
+      <str>Электра</str>
+      <Commands>
+        <cmd command="62" param="0014">
+          <power>2</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>3</post_state>
+          <rssi detect="70" attack="85" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>30</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>true</effects_enable>
+          <effect_group>1</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>1</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>false</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>1</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>false</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+      </Commands>
+      <textsms />
+      <usesmscmd>false</usesmscmd>
+      <smscmd command="32" param="0001">
+        <power>0</power>
+        <quantity>127</quantity>
+        <group>0</group>
+        <quantity_minute>false</quantity_minute>
+        <time_to_start>false</time_to_start>
+        <post_state>3</post_state>
+        <rssi detect="1" attack="1" />
+        <launch delay="0" cycle="0" />
+        <param_random>false</param_random>
+        <send_str0>false</send_str0>
+      </smscmd>
+      <smscmdstr0>вирус эбола</smscmdstr0>
+      <startimegitaly>true</startimegitaly>
+      <startfrom>2016-03-16T15:51:25.4549116+03:00</startfrom>
+    </superanomaly>
+    <superanomaly id="3">
+      <str>Тесла</str>
+      <Commands>
+        <cmd command="62" param="002d">
+          <power>2</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>3</post_state>
+          <rssi detect="70" attack="85" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>30</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>true</effects_enable>
+          <effect_group>1</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>1</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>false</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>1</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>false</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+      </Commands>
+      <textsms />
+      <usesmscmd>false</usesmscmd>
+      <smscmd command="32" param="0001">
+        <power>0</power>
+        <quantity>127</quantity>
+        <group>0</group>
+        <quantity_minute>false</quantity_minute>
+        <time_to_start>false</time_to_start>
+        <post_state>3</post_state>
+        <rssi detect="1" attack="1" />
+        <launch delay="0" cycle="0" />
+        <param_random>false</param_random>
+        <send_str0>false</send_str0>
+      </smscmd>
+      <smscmdstr0>вирус эбола</smscmdstr0>
+      <startimegitaly>true</startimegitaly>
+      <startfrom>2016-03-16T15:51:25.4549116+03:00</startfrom>
+    </superanomaly>
+    <superanomaly id="1">
+      <str>Ведьмин студень</str>
+      <Commands>
+        <cmd command="63" param="000a">
+          <power>2</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>3</post_state>
+          <rssi detect="70" attack="80" />
+          <param_random>true</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>30</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>true</effects_enable>
+          <effect_group>2</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>1</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>false</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>1</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>false</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+      </Commands>
+      <textsms />
+      <usesmscmd>false</usesmscmd>
+      <smscmd command="32" param="0001">
+        <power>0</power>
+        <quantity>127</quantity>
+        <group>0</group>
+        <quantity_minute>false</quantity_minute>
+        <time_to_start>false</time_to_start>
+        <post_state>3</post_state>
+        <rssi detect="1" attack="1" />
+        <launch delay="0" cycle="0" />
+        <param_random>false</param_random>
+        <send_str0>false</send_str0>
+      </smscmd>
+      <smscmdstr0>вирус эбола</smscmdstr0>
+      <startimegitaly>true</startimegitaly>
+      <startfrom>2016-03-16T15:51:25.4549116+03:00</startfrom>
+    </superanomaly>
+    <superanomaly id="2">
+      <str>Газировка</str>
+      <Commands>
+        <cmd command="63" param="0014">
+          <power>2</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>3</post_state>
+          <rssi detect="70" attack="85" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>30</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>true</effects_enable>
+          <effect_group>2</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>1</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>false</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>1</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>false</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+      </Commands>
+      <textsms />
+      <usesmscmd>false</usesmscmd>
+      <smscmd command="32" param="0001">
+        <power>0</power>
+        <quantity>127</quantity>
+        <group>0</group>
+        <quantity_minute>false</quantity_minute>
+        <time_to_start>false</time_to_start>
+        <post_state>3</post_state>
+        <rssi detect="1" attack="1" />
+        <launch delay="0" cycle="0" />
+        <param_random>false</param_random>
+        <send_str0>false</send_str0>
+      </smscmd>
+      <smscmdstr0>вирус эбола</smscmdstr0>
+      <startimegitaly>true</startimegitaly>
+      <startfrom>2016-03-16T15:51:25.4549116+03:00</startfrom>
+    </superanomaly>
+    <superanomaly id="3">
+      <str>Плавни</str>
+      <Commands>
+        <cmd command="63" param="002d">
+          <power>2</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>3</post_state>
+          <rssi detect="70" attack="85" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>30</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>true</effects_enable>
+          <effect_group>2</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>1</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>false</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>1</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>false</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+      </Commands>
+      <textsms />
+      <usesmscmd>false</usesmscmd>
+      <smscmd command="32" param="0001">
+        <power>0</power>
+        <quantity>127</quantity>
+        <group>0</group>
+        <quantity_minute>false</quantity_minute>
+        <time_to_start>false</time_to_start>
+        <post_state>3</post_state>
+        <rssi detect="1" attack="1" />
+        <launch delay="0" cycle="0" />
+        <param_random>false</param_random>
+        <send_str0>false</send_str0>
+      </smscmd>
+      <smscmdstr0>вирус эбола</smscmdstr0>
+      <startimegitaly>true</startimegitaly>
+      <startfrom>2016-03-16T15:51:25.4549116+03:00</startfrom>
+    </superanomaly>
+    <superanomaly id="1">
+      <str>Воронка</str>
+      <Commands>
+        <cmd command="64" param="000a">
+          <power>2</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>3</post_state>
+          <rssi detect="70" attack="80" />
+          <param_random>true</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>30</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>true</effects_enable>
+          <effect_group>3</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>1</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>false</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>1</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>false</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+      </Commands>
+      <textsms />
+      <usesmscmd>false</usesmscmd>
+      <smscmd command="32" param="0001">
+        <power>0</power>
+        <quantity>127</quantity>
+        <group>0</group>
+        <quantity_minute>false</quantity_minute>
+        <time_to_start>false</time_to_start>
+        <post_state>3</post_state>
+        <rssi detect="1" attack="1" />
+        <launch delay="0" cycle="0" />
+        <param_random>false</param_random>
+        <send_str0>false</send_str0>
+      </smscmd>
+      <smscmdstr0>вирус эбола</smscmdstr0>
+      <startimegitaly>true</startimegitaly>
+      <startfrom>2016-03-16T15:51:25.4549116+03:00</startfrom>
+    </superanomaly>
+    <superanomaly id="2">
+      <str>Карусель</str>
+      <Commands>
+        <cmd command="64" param="0014">
+          <power>2</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>3</post_state>
+          <rssi detect="70" attack="85" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>30</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>true</effects_enable>
+          <effect_group>3</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>1</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>false</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>1</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>false</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+      </Commands>
+      <textsms />
+      <usesmscmd>false</usesmscmd>
+      <smscmd command="32" param="0001">
+        <power>0</power>
+        <quantity>127</quantity>
+        <group>0</group>
+        <quantity_minute>false</quantity_minute>
+        <time_to_start>false</time_to_start>
+        <post_state>3</post_state>
+        <rssi detect="1" attack="1" />
+        <launch delay="0" cycle="0" />
+        <param_random>false</param_random>
+        <send_str0>false</send_str0>
+      </smscmd>
+      <smscmdstr0>вирус эбола</smscmdstr0>
+      <startimegitaly>true</startimegitaly>
+      <startfrom>2016-03-16T15:51:25.4549116+03:00</startfrom>
+    </superanomaly>
+    <superanomaly id="3">
+      <str>Мясорубка</str>
+      <Commands>
+        <cmd command="64" param="002d">
+          <power>2</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>3</post_state>
+          <rssi detect="70" attack="85" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>30</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>true</effects_enable>
+          <effect_group>3</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>1</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>false</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>1</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>false</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+      </Commands>
+      <textsms />
+      <usesmscmd>false</usesmscmd>
+      <smscmd command="32" param="0001">
+        <power>0</power>
+        <quantity>127</quantity>
+        <group>0</group>
+        <quantity_minute>false</quantity_minute>
+        <time_to_start>false</time_to_start>
+        <post_state>3</post_state>
+        <rssi detect="1" attack="1" />
+        <launch delay="0" cycle="0" />
+        <param_random>false</param_random>
+        <send_str0>false</send_str0>
+      </smscmd>
+      <smscmdstr0>вирус эбола</smscmdstr0>
+      <startimegitaly>true</startimegitaly>
+      <startfrom>2016-03-16T15:51:25.4549116+03:00</startfrom>
+    </superanomaly>
+    <superanomaly id="0">
+      <str />
+      <Commands>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>1</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>true</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>1</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>true</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>1</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>true</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+      </Commands>
+      <textsms />
+      <usesmscmd>false</usesmscmd>
+      <smscmd command="00" param="0000">
+        <power>0</power>
+        <quantity>0</quantity>
+        <group>0</group>
+        <quantity_minute>false</quantity_minute>
+        <time_to_start>false</time_to_start>
+        <post_state>0</post_state>
+        <rssi detect="0" attack="0" />
+        <launch delay="0" cycle="0" />
+        <param_random>false</param_random>
+        <send_str0>false</send_str0>
+      </smscmd>
+      <startimegitaly>true</startimegitaly>
+      <startfrom>2017-03-02T22:00:20.7528423+03:00</startfrom>
+    </superanomaly>
+    <superanomaly id="0">
+      <str>Ретрансляция SMS</str>
+      <Commands>
+        <cmd command="d2" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>30</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>false</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>true</send_sms>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>1</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>true</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+        <cmd command="00" param="0000">
+          <power>0</power>
+          <quantity>1</quantity>
+          <quantity_minute>false</quantity_minute>
+          <time_to_start>false</time_to_start>
+          <group>0</group>
+          <post_state>0</post_state>
+          <rssi detect="0" attack="0" />
+          <param_random>false</param_random>
+          <cycle_min>0</cycle_min>
+          <cycle_sec>1</cycle_sec>
+          <mine0>0</mine0>
+          <mine1>0</mine1>
+          <effects_enable>true</effects_enable>
+          <effect_group>0</effect_group>
+          <send_str0>true</send_str0>
+          <send_sms>false</send_sms>
+        </cmd>
+      </Commands>
+      <textsms />
+      <usesmscmd>false</usesmscmd>
+      <smscmd command="00" param="0000">
+        <power>0</power>
+        <quantity>0</quantity>
+        <group>0</group>
+        <quantity_minute>false</quantity_minute>
+        <time_to_start>false</time_to_start>
+        <post_state>0</post_state>
+        <rssi detect="0" attack="0" />
+        <launch delay="0" cycle="0" />
+        <param_random>false</param_random>
+        <send_str0>false</send_str0>
+      </smscmd>
+      <startimegitaly>true</startimegitaly>
+      <startfrom>2017-03-02T22:00:28.6533874+03:00</startfrom>
+    </superanomaly>
+  </content>
+</SuperAnomalies>

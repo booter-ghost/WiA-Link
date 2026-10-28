@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PDA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Mode>0</Mode>
+  <Frequrency>0</Frequrency>
+  <ResetIntFlash>true</ResetIntFlash>
+  <UseKarma>false</UseKarma>
+  <TimeBeforeSuiside>3</TimeBeforeSuiside>
+  <Experience>true</Experience>
+  <PdaGameId>186</PdaGameId>
+  <AutoHealing>0</AutoHealing>
+  <AutoRadiation>0</AutoRadiation>
+  <RadSickness>AAEBAgMFBwoNDw==</RadSickness>
+  <ExperienceStartValue>0</ExperienceStartValue>
+  <ExperienceLife>1</ExperienceLife>
+  <ExperienceRadiation>2</ExperienceRadiation>
+  <ExperienceHealing>1</ExperienceHealing>
+  <ExperienceAntiRad>2</ExperienceAntiRad>
+  <ExperienceAnomalyDeath>0</ExperienceAnomalyDeath>
+  <ExperienceRadiationDeath>0</ExperienceRadiationDeath>
+  <AnomaliesTypes>Жизнь    </AnomaliesTypes>
+  <AnomaliesTypes>Термо    </AnomaliesTypes>
+  <AnomaliesTypes>Электра  </AnomaliesTypes>
+  <AnomaliesTypes>Химия    </AnomaliesTypes>
+  <AnomaliesTypes>Грави    </AnomaliesTypes>
+  <AnomaliesTypes>Пси      </AnomaliesTypes>
+  <AnomaliesTypes>Монолит  </AnomaliesTypes>
+  <AnomaliesTypes>Осознание</AnomaliesTypes>
+  <AnomaliesTypes>Био      </AnomaliesTypes>
+  <AnomaliesTypes>Токсин   </AnomaliesTypes>
+  <AnomaliesTypes>Кварки   </AnomaliesTypes>
+  <AnomaliesTypes>Вирус    </AnomaliesTypes>
+  <AnomaliesTypes>         </AnomaliesTypes>
+  <AnomaliesTypes>         </AnomaliesTypes>
+  <AnomaliesTypes>         </AnomaliesTypes>
+  <AnomaliesTypes>МИНА     </AnomaliesTypes>
+  <PostState0_str0>Ты стал зомби  !</PostState0_str0>
+  <PostState0_str1>иди и рычи как зомби пока тебя не убьют из оружия</PostState0_str1>
+  <PostState0_Cmd>0</PostState0_Cmd>
+  <PostState0_Param>0</PostState0_Param>
+  <PostState0_Quantity>0</PostState0_Quantity>
+  <PostState0_Power>0</PostState0_Power>
+  <PostState0_Period>4</PostState0_Period>
+  <PostState0_Group>0</PostState0_Group>
+  <PostState0_RssiDetect>0</PostState0_RssiDetect>
+  <PostState0_RssiAttack>0</PostState0_RssiAttack>
+  <PostState0_PostState>3</PostState0_PostState>
+  <PostState0_str>всем капут</PostState0_str>
+  <PostState1_str0>Ты умер в муках.</PostState1_str0>
+  <PostState1_str1>Тебя настигла зараза.</PostState1_str1>
+  <PostState1_Cmd>48</PostState1_Cmd>
+  <PostState1_Param>3</PostState1_Param>
+  <PostState1_Quantity>68</PostState1_Quantity>
+  <PostState1_Power>7</PostState1_Power>
+  <PostState1_Period>1</PostState1_Period>
+  <PostState1_Group>0</PostState1_Group>
+  <PostState1_RssiDetect>60</PostState1_RssiDetect>
+  <PostState1_RssiAttack>60</PostState1_RssiAttack>
+  <PostState1_PostState>4</PostState1_PostState>
+  <PostState1_str>Зараженный</PostState1_str>
+  <Group>0</Group>
+  <tb_menu_RadStr1>Радиация</tb_menu_RadStr1>
+  <tb_menu_LifeStr0>Жизнь</tb_menu_LifeStr0>
+  <tb_menu_Defence0>Защита. Рад: </tb_menu_Defence0>
+  <tb_menu_Intactness1>Опыт     </tb_menu_Intactness1>
+  <tb_menu_KarmaStr0>Карма        </tb_menu_KarmaStr0>
+  <tb_menu_KarmaPositiveStr1>   положительная</tb_menu_KarmaPositiveStr1>
+  <tb_menu_KarmaNeutralStr1>     нейтральная</tb_menu_KarmaNeutralStr1>
+  <tb_menu_KarmaNegativeStr1>   отрицательная</tb_menu_KarmaNegativeStr1>
+  <tb_logic_AnomalyNo0>  Аномалий нет  </tb_logic_AnomalyNo0>
+  <tb_menu_Intactness0>Костюм</tb_menu_Intactness0>
+  <tb_menu_Intactness0_>Костюма нет</tb_menu_Intactness0_>
+  <tb_menu_AnomalyShield>костюм цел.=</tb_menu_AnomalyShield>
+</PDA>
